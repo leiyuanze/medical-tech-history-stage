@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T07:42:27.915309+00:00",
+  "generatedAt": "2026-10-26T16:04:56.274270+00:00",
   "files": {
     "404.html": {
       "bytes": 426,
@@ -10,16 +10,16 @@
       "sha256": "f95f07181e494134e59d89c8b94cf597fbeef1c6524a3a3dab01b7a07f5b6309"
     },
     "assets/fonts/OFL.txt": {
-      "bytes": 4301,
-      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+      "bytes": 4393,
+      "sha256": "88f117575237307bdd86a17ef15e21790fc9a662fe4dfb103ca1ca077f0d9982"
     },
     "assets/fonts/stage-title.ttf": {
       "bytes": 20964,
       "sha256": "05a06aec1e56d5fc58dd6b5e216501f583fc910be57063a91c4036f572291e59"
     },
     "index.html": {
-      "bytes": 6126,
-      "sha256": "4e7419d4f5c1bc8b931f7abf568e8096a57790c73a5deef6192ff39cd39af899"
+      "bytes": 6170,
+      "sha256": "ade948bfab4a2e9dce3ced13db7db7a1160e5a29159202f3693650654eb8466a"
     },
     "media/barber-loop.mp4": {
       "bytes": 2621451,
@@ -30,12 +30,12 @@
       "sha256": "eae74ff36121ed6c1c168d9b20ff7647aa13591e2071daad1a03a337bff0e989"
     },
     "media/clinic-loop.mp4": {
-      "bytes": 1655561,
-      "sha256": "f01353b3ec1843e27309d38ab7269a1510fe17d376b2319066c259634eaf3868"
+      "bytes": 1719763,
+      "sha256": "016b6d462530b5aebc5139e2f9ac5c10dac569a8bbe9bc5004834858604cd2a7"
     },
     "media/clinic-poster.webp": {
-      "bytes": 62442,
-      "sha256": "09433d8c740fb1d849441cc9aa41a7724cda5489a0870a9cbd0180f42476448f"
+      "bytes": 64628,
+      "sha256": "b860e4d294c03faf31ad2e9ebfb75c3ce3cfc81f1e47cbecc271966488c500ff"
     },
     "media/hartford-loop.mp4": {
       "bytes": 3097490,
@@ -46,24 +46,24 @@
       "sha256": "7d371b1d951c28adb1a3c51895994009b3b060398f1851c96de39a015a6ffd7a"
     },
     "media/palace-loop.mp4": {
-      "bytes": 6798540,
-      "sha256": "987bccfaec74076484043943dd2da496063fbf30ac4b005781f019f99f04fd48"
+      "bytes": 6823670,
+      "sha256": "6f43f83a68bd9ac3b9706128f499362b7abdaa1ed6fee65b5c975002025be1ed"
     },
     "media/palace-poster.webp": {
-      "bytes": 144486,
-      "sha256": "c7b31bc3b6460e7b83bc657576075ce393b23f63e0e602842352a4a45d64e12f"
+      "bytes": 154410,
+      "sha256": "38c5b9417450e3f0c04ad6b37993c2872578a9848671b8daed1d6ddcb524f41e"
     },
     "player.css": {
-      "bytes": 14860,
-      "sha256": "517ad2c526cc73b68ca312c9fb0df7a79357ec3056c2df65618979b876b879b3"
+      "bytes": 15682,
+      "sha256": "c6ca0f3ae6126f265de92d0523e045db12219314d3a1f3d208a5f7105246916b"
     },
     "player.js": {
-      "bytes": 17637,
-      "sha256": "a81ee25317596416f0dd51337e28cf1230a8ab3e1184c035c37aab6168b6a1d2"
+      "bytes": 18254,
+      "sha256": "70efa7bf63c79bb0806be477e525c063417a420bb0b13c72bd060bdef2c8b8d7"
     },
     "README.md": {
-      "bytes": 527,
-      "sha256": "02d83e5dee8cf4ae642990674989836b50120a6deae4bf5d0b9e258bf96eaa60"
+      "bytes": 691,
+      "sha256": "bb08f30dbe1d14623d094be87a332bc2769bcb23960ff99e402eed8811987f1c"
     }
   }
 }
